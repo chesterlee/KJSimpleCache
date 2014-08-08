@@ -14,7 +14,7 @@ there are three important interface you can use:
   **clean All Caches both in memory and disk**  
   
 ### Notice
-you can set KJSCACHE_MEMORY_COST_LIMIT,KJSCACHE_DISK_MAXAGE,KJDISK_NAME to custom your needs.  
+you can set KJSCACHE_MEMORY_COST_LIMIT, KJSCACHE_DISK_MAXAGE, KJDISK_NAME  to custom your needs.  
 
 BTW, the AnyObject you need to cached should comform the protocol of the NSCoding.
 
