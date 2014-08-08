@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>F1728B4A-8D36-4986-8F15-7A73F957890A</string>
+	<key>IDESourceControlProjectName</key>
+	<string>KJSimpleCache</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>609999D2-DD33-4EA1-A78C-6C6C6649A7A7</key>
+		<string>https://github.com/chesterlee/KJSimpleCache.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>KJSimpleCache.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>609999D2-DD33-4EA1-A78C-6C6C6649A7A7</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/chesterlee/KJSimpleCache.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>609999D2-DD33-4EA1-A78C-6C6C6649A7A7</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>609999D2-DD33-4EA1-A78C-6C6C6649A7A7</string>
+			<key>IDESourceControlWCCName</key>
+			<string>KJSimpleCache</string>
+		</dict>
+	</array>
+</dict>
+</plist>
